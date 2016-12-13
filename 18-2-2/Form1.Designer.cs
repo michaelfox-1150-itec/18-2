@@ -294,7 +294,7 @@
             this.Controls.Add(this.releaseDateDateTimePicker);
             this.Controls.Add(this.productsBindingNavigator);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Product Maintenance";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.techSupport_DataDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.productsBindingSource)).EndInit();
